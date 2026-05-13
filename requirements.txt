@@ -1,0 +1,2 @@
+# Saillent Governance Dashboard
+# No external dependencies required — uses Python stdlib only
